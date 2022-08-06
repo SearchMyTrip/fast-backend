@@ -1,8 +1,26 @@
 from core.recommendation import *
+from core.nearby import *
+from fastapi.middleware.cors import CORSMiddleware
 
 from fastapi import FastAPI
 from enum import Enum
 app = FastAPI()
+origins = [
+    "http://localhost.tiangolo.com",
+    "https://localhost.tiangolo.com",
+    "http://localhost",
+    "http://localhost:8080",
+    "0.0.0.0:80"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 new_df, similarity = recommender()
 
 
@@ -33,6 +51,13 @@ async def retrain():
 @app.get("/rec/{place}")
 async def rec(place):
     return recommend(place, similarity, new_df)
+
+@app.get("/{lat}/{long}")
+async def displacement(lat: float, long: float):
+    return near_location(lat, long)
+
+
+
 
 @app.get("/{theme}")
 async def theme_res(theme: Theme):
