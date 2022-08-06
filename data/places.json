@@ -7,7 +7,7 @@
                 27.7215,
                 85.3620
             ],
-            "theme": ["historic", "religious"],
+            "theme": ["historic", "religious", "temple"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Boudhanath_Stupa-IMG_7048.jpg",
             "des": "Bouddhanath stupa is the most liked sightseeing place in Kathmandu. Visitors are required to pay NRs. 250(Foreign Nationals) NRs. 50 (SAARC Nationals) NRs. 250 (Chinese) per person (Below 10 years free) as entrance fees to the Bouddhanath. A lot of Tibetan people reside around the Stupa. And it is very famous and holy place specially of Buddhists People. It is one of the most popular world heritage site of Nepal. Breakfree Adventures offer Bouddhanath Private Sightseeing Day Tours."
 
@@ -19,7 +19,7 @@
                 27.7149,
                 85.2903
             ],
-            "theme": ["religious"],
+            "theme": ["religious", "temple"],
             "image": "https://www.landnepal.com/wp-content/uploads/2021/08/Swyambhunath.jpg",
             "des": "Swayambhunath is a glorious ancient religious architecture, located in the middle of Kathmandu city. It is center of faith of both Buddhist and Hindus."
         },
@@ -30,7 +30,7 @@
                 27.7104,
                 85.3487
             ],
-            "theme": ["religious"],
+            "theme": ["religious", "temple"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pashupatinath_Temple-2020.jpg",
             "des": "This temple was classified as a World Heritage Site in 1979. This 'extensive Hindu temple precinct' is a 'sprawling collection of temples, ashrams, images and inscriptions raised over the centuries along the banks of the sacred Bagmati river', and is one of seven monument groups in UNESCO's designation of Kathmandu Valley."
         },
@@ -41,7 +41,7 @@
                 27.6672,
                 85.2058
             ],
-            "theme": [],
+            "theme": ["park"],
             "image": "https://teamhimalaya.com/wp-content/uploads/2019/05/chandragiri-blog.jpg",
             "des": "Chandragiri Hill is seven kilometres from Thankot, and lies on the south-west side of Kathmandu Valley which is 2551 metres above sea level. The hill provides panoramic views of Kathmandu Valley and the Himalayan ranges from Annapurna to Everest."
         },
@@ -52,7 +52,7 @@
                 27.7425,
                 85.3644
             ],
-            "theme": ["religious"],
+            "theme": ["religious", "temple"],
             "image": "https://ak.jogurucdn.com/media/image/p25/place-2014-09-22-18-Kopanmonasteryc019cda7140d58b67f5d63b10f0a6361.jpg",
             "des": "Hundreds of monks and nuns live at this monastery, which offers meditation courses year round."
         },
@@ -74,7 +74,7 @@
                 27.7141,
                 85.3145
             ],
-            "theme": [],
+            "theme": ["park"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Garden_of_Dreams.jpg",
             "des": "The Garden of Dreams, a neo classical historical garden, is situated in the midst of Kathmandu city, Nepal. The Garden's design has much in common with formal European gardens: paved perimeter paths, punctuated by pavilions, trellises, and various planting areas, surrounded by a sunken flower garden with a large pond at its center. It is an architectural landscape that encourages the visitor to stroll around and discover the Garden's treasures from many different vantage points."
         },
@@ -85,7 +85,7 @@
                 27.5698,
                 85.5824
             ],
-            "theme": ["religious", "historic"],
+            "theme": ["religious", "historic", "temple"],
             "image": "https://www.trekinnepal.com/public/images/upload/blog/cover.jpg",
             "des": "Namobudha is one of the most important religious sites of the Buddhists after Kathmandu's, Swyambhunath and Bouddhanath. It is located on a picturesque hill, 45 km along Banepa, Panauti route. The religiously important Namobuddha, surrounded by serene environment and green hills, is gaining fame as an important Buddhist pilgrimage site. The site is also gaining reputation as a tourist destination and more and more foreign tourists reach the place every year. Huge festival is organized here on the full moon day of Basisakh (May). the Birthday of Lord Buddha. Thousands of devotees both Buddhist and Hindu gather here for the festival. Tourist are also attracted to the artistic monasteries and the idol of 'Sacrifice to the Tigress' located around the hilltop famous for viewing sunrise and sunset."
         },
@@ -96,7 +96,7 @@
                 27.7042,
                 85.3067
             ],
-            "theme": ["religious", "historic"],
+            "theme": ["religious", "historic", "park"],
             "image": "https://www.inditales.com/wp-content/uploads/2012/03/basantapur-durbar-square-kathmandu.jpg",
             "des": "Kathmandu Durbar Square is located in front of the old royal palace of the former Kathmandu Kingdom and is one of three Durbar Squares in the Kathmandu Valley in Nepal, all of which are UNESCO World Heritage Sites. Several buildings in the Square collapsed due to a major earthquake on 25 April 2015."
         },
@@ -107,7 +107,7 @@
                 27.8129,
                 85.3859
             ],
-            "theme": [],
+            "theme": ["park"],
             "image": "https://himalayasguide.com/wp-content/uploads/2019/02/shivapuri-national-park.jpg",
             "des": "Shivapuri Nagarjun National Park is the ninth national park in Nepal and was established in 2002. It is located in the country's mid-hills on the northern fringe of the Kathmandu Valley and named after Shivapuri Peak of 2,732 m altitude. "
         },
@@ -129,7 +129,7 @@
                 27.6051,
                 85.2635
             ],
-            "theme": ["religious"],
+            "theme": ["religious", "temple"],
             "image": "https://www.vivaanadventure.com/wp-content/uploads/2018/08/61239503_625215364623863_4070967250335948491_n-1080x540.jpg",
             "des": "Dakshinkali Temple, also Dakshin Kali Temple or Dakshina Kali Temple, located 22 kilometres outside Kathmandu and about 1 kilometre outside the village of Pharping, is one of the major Hindu temples in Nepal dedicated to the goddess Kali."
         },
@@ -140,7 +140,7 @@
                 27.7654,
                 85.3653
             ],
-            "theme": ["religious"],
+            "theme": ["religious", "park"],
             "image": "https://sacredsites.com/images/asia/nepal/budanilkantha-2.jpg",
             "des": "Budhanilkantha is a sprawling suburb that stretches into Shivapuri Nagarjun National Park, a forested area home to leopards, monkeys, and bears, plus many species of local and migratory birds. At Bhuijasi Narayan Temple, a black basalt carving of the Hindu god Vishnu, draped in marigolds and reclining on a bed of serpents, lies in a small pond. ISKCON Nepal temple offers spiritual sessions and classes."
         },
@@ -151,7 +151,7 @@
                 27.70462,
                 85.30748
             ],
-            "theme": ["historic"],
+            "theme": ["historic", "historic", "park"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Kumari_jatra._Three_temple_cars_outside_the_Hanuman_Dhoka%2C_or_Old_Palace%2C_Kathmandu_-_Oldfield_collection_%281850-1863%29_-_BL_WD_3279.jpg",
             "des": "Hanuman Dhoka is a complex of structures with the Royal Palace of the Malla kings and also of the Shah dynasty in the Durbar Square of central Kathmandu, Nepal. It is spread over five acres. The Hanuman Dhoka Palace gets its name from the stone image of Hanuman, the Hindu deity, that sits near the main entryway."
         },
@@ -184,7 +184,7 @@
                 27.70895,
                 85.3158
             ],
-            "theme": ["historic"],
+            "theme": ["historic", "park"],
             "image": "http://ecs.com.np/fckimage/article/images/2015/9/basantapur_2.jpg",
             "des": "Kathmandu Durbar Square is located in front of the old royal palace of the former Kathmandu Kingdom and is one of three Durbar Squares in the Kathmandu Valley in Nepal, all of which are UNESCO World Heritage Sites. Several buildings in the Square collapsed due to a major earthquake on 25 April 2015."
         }, 
@@ -196,7 +196,7 @@
                 28.2154, 
                 83.9453
             ],
-            "theme": [],
+            "theme": ["park"],
             "image": "https://www.landnepal.com/wp-content/uploads/2021/07/PhewaLake.jpg",
             "des": "Phewa Lake, Phewa Tal or Fewa Lake is a freshwater lake in Nepal formerly called Baidam Tal located in the south of the Pokhara Valley that includes Pokhara city; parts of Sarangkot and Kaskikot."
         }, 
@@ -206,7 +206,7 @@
             "cords": [
                 28.1739, 84.0973
             ],
-            "theme": [],
+            "theme": ["park"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/LakeBegnas.jpg",
             "des": "Begnas Lake is a freshwater lake in Pokhara Lekhnath Metropolis of Kaski district of Nepal located in the south-east of the Pokhara Valley. The lake is the third largest lake of Nepal and second largest, after Phewa Lake, among the eight lakes in Pokhara Valley."
         }, 
@@ -217,7 +217,7 @@
                 28.1900, 
                 83.9593
             ],
-            "theme": ["historic"],
+            "theme": ["historic", "park"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Davis_Fall-Sfxr.jpg/800px-Davis_Fall-Sfxr.jpg",
             "des": "Devi's Falls is a waterfall located at Pokhara in Kaski District, Nepal. The water forms a tunnel after reaching the bottom. This tunnel is approximately 500 feet long and runs 100 feet below ground level. On 31 July 1961, a Swiss couple went swimming but the woman drowned in a pit because of the overflow."
         }, 
@@ -227,7 +227,7 @@
             "cords": [
                 28.2378, 83.9842
             ],
-            "theme": ["religious"],
+            "theme": ["religious", "temple"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bindabasini_temple_pokhara.JPG/1024px-Bindabasini_temple_pokhara.JPG",
             "des": "The Bindhyabasini Temple is the oldest temple in the city of Pokhara, Nepal and is located in Ward No. 2, Miruwa. It regularly attracts a large number of locals, Nepalis from across the country and foreigners alike. The main temple is devoted to goddess Bindhyabasini, a Bhagawati who is the incarnation of Kali."
         }, 
@@ -238,7 +238,7 @@
                 28.271793,
                 83.979324
             ],
-            "theme": [],
+            "theme": ["park"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mahendra_Cave.JPG/1024px-Mahendra_Cave.JPG",
             "des": "Mahendra Cave is a cave located in Pokhara-16, batulechaur, Kaski district, close to the Kali khola, is a large limestone cave. It is a rare example of a cave system in Nepal containing stalagmites and stalactites. This show cave attracts thousands of tourists every year. "
         }, 
@@ -249,7 +249,7 @@
                 28.2075,
                 83.9535
             ],
-            "theme": ["religious"],
+            "theme": ["religious", "temple"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Barahi_Temple_%289191444126%29_%28cropped%29.jpg",
             "des": "Tal Barahi temple also known as ‘Lake Temple’ or ‘Barahi Temple’ is a Hindu temple of the Durga. It is the most important religious monument in Pokhara, Nepal. This temple is located on a small island in the middle of Phewa Lake. As the temple is situated on a small island, the only way to visit it is by boat."
         }, 
@@ -260,7 +260,7 @@
                 28.1542,
                 84.1132
             ],
-            "theme": [],
+            "theme": ["temple", "park"],
             "image": "https://www.landnepal.com/wp-content/uploads/2021/06/RupaLake_LN.jpg",
             "des": "Rupa Lake or Rupa Tal is a freshwater lake in Nepal located in the border of Pokhara Metropolitan and Rupa Rural Municipality of Kaski District. It is the third biggest lake in Pokhara valley of Nepal and at an altitude of 600 m covering area about 1.35 km² with an average water depth 3 m and maximum depth 6 m. "
         }, 
@@ -271,7 +271,7 @@
                 28.190065,
                 83.982860
             ],
-            "theme": [],
+            "theme": ["historic", "park"],
             "image": "https://static.toiimg.com/thumb/msid-57789037,width-550,height-433/57789037.jpg",
             "des": "The International Mountain Museum is a museum located in Pokhara, Nepal."
         }, 
@@ -282,7 +282,7 @@
                 28.19957,
                 82.34208
             ],
-            "theme": [],
+            "theme": ["park"],
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chamere_Gufa%28cave%29.jpg",
             "des": "The Bat Cave is a solutional cave in the Kaski District in Pokhara, Nepal. It is known for a habitat of Horseshoe bats inside the cave, over the walls and ceiling. The cave is formed of limestone. It is a show cave and one of the most popular tourist destinations in Pokhara."
         }
