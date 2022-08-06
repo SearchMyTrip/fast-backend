@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import json
 import pickle
 import nltk
 from nltk.stem.porter import PorterStemmer
@@ -46,13 +47,39 @@ def recommender():
     return (new_df, similarity)
 
 def recommend(place, similarity, new_df):
+
+    places = pd.read_csv("data/output.csv")
+
     place_index = new_df[new_df['name']==place].index[0]
     distances = similarity[place_index]
     place_list = sorted(list(enumerate(distances)), reverse = True, key=lambda x:x[1])
-    names = new_df['name']
+    # names = new_df['name']
     temp = []
+
+    
+    with open("data/places.json",'r') as file:
+        json_data = json.load(file)
     for i in place_list:
-        temp.append(names[i[0]])
+        for place in json_data['attractions']:
+            if place['name'] == places['name'][i[0]]:
+                temp_data = {
+                        "name": place['name'],
+                        "location": place['location'],
+                        "cords":  place['cords'],
+                        "theme": place['theme'],
+                        "image": place['image'],
+                        "des": place['des']                        
+                        }
+                temp.append(temp_data)
+
+            
+
+
+
+        # print(json_data['attractions'])
+
+        # temp.append(places['name'][i[0]])
+
     return temp 
 
 if __name__ == "__main__":
