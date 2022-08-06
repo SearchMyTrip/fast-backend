@@ -5,13 +5,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
 from enum import Enum
 app = FastAPI()
-origins = [
-    "http://localhost.tiangolo.com",
-    "https://localhost.tiangolo.com",
-    "http://localhost",
-    "http://localhost:8080",
-    "0.0.0.0:80"
-]
+
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,

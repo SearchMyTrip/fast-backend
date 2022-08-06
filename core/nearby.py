@@ -19,11 +19,11 @@ def distance(lat1, lat2, lon1, lon2):
 
 
 def near_location(lat, long):
-
     with open("data/places.json", "r") as file:
         json_data = json.load(file)
     temp = []
     for place in json_data["attractions"]:
+        
         temp_data = {
             "name": place["name"],
             "location": place["location"],
