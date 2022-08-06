@@ -27,12 +27,3 @@ def get_weather_info(lat:float, lon:float, apikey=API_KEY):
     sunrise_time = dt.datetime.utcfromtimestamp(response['sys']['sunrise'] + response['timezone'])
     sunset_time = dt.datetime.utcfromtimestamp(response['sys']['sunset'] + response['timezone'])
     wind_speed = response['wind']['speed']
-
-    print(temp_kelvin, temp_celsius, temp_farenheit)
-    print(humidity)
-    print(description)
-    print(sunrise_time)
-    print(sunset_time)
-    print(wind_speed)
-    
-
