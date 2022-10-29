@@ -3,7 +3,7 @@ import requests
 import json
 
 BASE_URL= "http://api.openweathermap.org/geo/1.0/reverse?lat={}&lon={}&limit=5&appid={}"
-API_KEY = 'e1251f4b3ec66f597745dea88f953ebd'
+API_KEY = <your api key>
 
 def get_city_name(lat:float, lon:float, apikey=API_KEY):
     url = BASE_URL.format(lat, lon, apikey)
